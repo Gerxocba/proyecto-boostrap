@@ -8,14 +8,6 @@ margin-bottom: 2rem;
 margin-left: 1rem;
 margin-right: 1rem;
 }   
-header{
-    position:sticky;
-    display: grid; 
-    text-align: center;
-    margin: 5px;
-    padding: 5px;
-   
-}
 main{
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -28,7 +20,14 @@ align-content: center;
 
 }
 header{position: sticky; 
+    display: grid;
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
      top: 0; 
      z-index: 2; 
-     max-width: 100% }
+     max-width: 100% 
+    
+    
+    }
 
