@@ -27,7 +27,11 @@ header{position: sticky;
      top: 0; 
      z-index: 2; 
      max-width: 100% 
-    
-    
     }
+
+article {color: rgb(173, 172, 98);
+transition: all 2s;
+}
+    
+article :hover{color: rgb(132, 132, 204);}
 
