@@ -3,7 +3,8 @@
 body{background: linear-gradient(rgb(56, 56, 236),rgba(203, 203, 115, 0.68));}
  
 footer{text-align: center;}
- .margin-size{margin-top: 2rem;
+ 
+.margin-size{margin-top: 2rem;
 margin-bottom: 2rem;
 margin-left: 1rem;
 margin-right: 1rem;
@@ -33,5 +34,5 @@ article {color: rgb(173, 172, 98);
 transition: all 2s;
 }
     
-article :hover{color: rgb(132, 132, 204);}
+article:hover {color: rgb(132, 132, 204);}
 
