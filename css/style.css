@@ -35,4 +35,8 @@ transition: all 2s;
     
 article:hover {color: rgb(132, 132, 204);}
 
+H1{color: rgb(163, 157, 157);
+text-align: center;
+text-shadow: white;
+}
 /*# sourceMappingURL=style.css.map */
