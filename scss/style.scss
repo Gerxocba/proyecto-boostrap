@@ -1,46 +1,20 @@
-
-body{background: linear-gradient(rgb(56, 56, 236),rgba(203, 203, 115, 0.68));}
+@import "_body.scss";
+@import "_cards.scss";
+@import "_contenedor.scss";
+@import "_footer.scss";
+@import "_header.scss";
+@import "_main.scss";
+@import "margin-size";
+@import "_nav.scss";
+@import "_texto.scss";
+@import "title.scss"
  
-footer{text-align: center;}
+
  
-.margin-size{margin-top: 2rem;
-margin-bottom: 2rem;
-margin-left: 1rem;
-margin-right: 1rem;
-}   
-main{
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    margin-left: 1rem;
-    margin-right: 1rem;
-}
-.contenedor{display: flex;
-justify-content: center;
-align-content: center;
 
-}
-header{position: sticky; 
-    display: grid;
-    text-align: center;
-    margin: 2px;
-    padding: 2px;
-     top: 0; 
-     z-index: 2; 
-     max-width: 100% 
-    }
 
-article {color: rgb(173, 172, 98);
-transition: all 2s;
-}
+
+
     
-article:hover {color: rgb(132, 132, 204);}
 
-h1{color: rgb(228, 227, 227);
-text-align: center;
-text-shadow: white;
-}
-nav{
-    max-width: 100%;
-    a{color: white;}
-}
-    
+

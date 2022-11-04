@@ -21,6 +21,7 @@ footer {
 }
 
 header {
+  position: -webkit-sticky;
   position: sticky;
   display: grid;
   text-align: center;
@@ -56,6 +57,4 @@ h1 {
   color: rgb(228, 227, 227);
   text-align: center;
   text-shadow: white;
-}
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
