@@ -1,0 +1,61 @@
+body {
+  background: linear-gradient(rgb(56, 56, 236), rgba(203, 203, 115, 0.68));
+}
+
+article {
+  color: rgb(173, 172, 98);
+  transition: all 2s;
+}
+article article:hover {
+  color: rgb(132, 132, 204);
+}
+
+.contenedor {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+footer {
+  text-align: center;
+}
+
+header {
+  position: sticky;
+  display: grid;
+  text-align: center;
+  margin: 2px;
+  padding: 2px;
+  top: 0;
+  z-index: 2;
+  max-width: 100%;
+}
+
+main {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.margin-size {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+nav {
+  max-width: 100%;
+}
+nav a {
+  color: white;
+}
+
+h1 {
+  color: rgb(228, 227, 227);
+  text-align: center;
+  text-shadow: white;
+}
+
+/*# sourceMappingURL=style.css.map */

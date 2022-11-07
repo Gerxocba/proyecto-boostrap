@@ -1,0 +1,20 @@
+{
+  "name": "proyecto-responsive-mobile-first-bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerxocba/proyecto-boostrap.git"
+  },
+  "keywords": ["proyecto desarrollo web"],
+  "author": "Gerxo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gerxocba/proyecto-boostrap/issues"
+  },
+  "homepage": "https://github.com/Gerxocba/proyecto-boostrap#readme",
+  "description": "sitio web del estudio juridico bonzani & rinaldi"
+}
